@@ -1,0 +1,10 @@
+{
+  "name": "New Tab",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "author": "vishal",
+  "description": "New tab with thought of the day and background image",
+  "chrome_url_overrides": {
+    "newtab": "NewTab/index.html"
+  }
+}
